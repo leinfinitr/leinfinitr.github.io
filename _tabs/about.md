@@ -33,8 +33,7 @@ ASICs, and FPGAs. My contributions include implementing Intel Level Zero
 support for Intel iGPUs and NPUs, porting XSched to Windows, and building its
 cross-platform IPC library.
 
-The work appeared at the **19th USENIX Symposium on Operating Systems Design
-and Implementation (OSDI '25)**:
+The work appeared at the **OSDI '25**:
 
 > Weihang Shen, Mingcong Han, **Jialong Liu**, Rong Chen, and Haibo Chen.<br>
 > “XSched: Preemptive Scheduling for Diverse XPUs.”<br>
