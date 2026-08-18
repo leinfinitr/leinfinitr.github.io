@@ -10,11 +10,10 @@ Hi, I'm **Jialong Liu** (刘佳隆), an M.S. student in Software Engineering at
 [Institute of Parallel and Distributed Systems (IPADS)](https://ipads.se.sjtu.edu.cn/).
 I expect to graduate in March 2028.
 
-My interests lie at the intersection of **systems and AI infrastructure**. I
-build runtime mechanisms for heterogeneous accelerators, with an emphasis on
-compute scheduling, memory management, and predictable performance. I enjoy
+My interests lie at the intersection of **systems and AI infrastructure**.I enjoy
 turning systems ideas into working software and evaluating them under realistic
-resource constraints.
+resource constraints. I am always happy to discuss systems research, open-source 
+collaboration, and engineering opportunities.
 
 ## Research Interests
 
@@ -68,23 +67,10 @@ China Graduate Operating System Open Source Innovation Competition.
 ## Education & Teaching
 
 I received my B.E. in Software Engineering from Shanghai Jiao Tong University
-in 2025 and am continuing there as an M.S. student. From September 2025 to June
+in 2025 and am continuing there as an M.S. student. 
+
+From September 2025 to June
 2026, I served as a teaching assistant for *Introduction to Computer Systems*,
 supporting a class of 95 undergraduate students. I received SJTU's
 [Excellent Teaching Assistant Award](https://ctld.sjtu.edu.cn/news/detail/1328)
 for the Spring 2026 semester.
-
-## Skills
-
-My primary languages are **C/C++**, **Python**, and **Go**. I work with CUDA,
-Intel Level Zero, Linux systems, Docker, Git, and Bash, with a focus on
-scheduling, memory management, systems performance, and heterogeneous runtimes.
-
-## Contact
-
-I am always happy to discuss systems research, open-source collaboration, and
-engineering opportunities.
-
-- Email: [liujl01@sjtu.edu.cn](mailto:liujl01@sjtu.edu.cn)
-- GitHub: [github.com/leinfinitr](https://github.com/leinfinitr)
-- Location: Shanghai, China
