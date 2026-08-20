@@ -4,7 +4,7 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-Hi, I'm **Jialong Liu** (刘佳隆), an M.S. student in Software Engineering at
+Hi, I'm **Jialong Liu**, an M.S. student in Software Engineering at
 [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/), advised by
 [Prof. Rong Chen](https://ipads.se.sjtu.edu.cn/rong_chen) in the
 [Institute of Parallel and Distributed Systems (IPADS)](https://ipads.se.sjtu.edu.cn/).
